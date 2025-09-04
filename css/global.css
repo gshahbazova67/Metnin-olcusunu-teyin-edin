@@ -1,0 +1,11 @@
+div {
+    font-size: 20px;
+}
+
+#content-1 {
+    font-size: 2em;
+}
+
+#content-2 {
+    font-size: 300%;
+}
